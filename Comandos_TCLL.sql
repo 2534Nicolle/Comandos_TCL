@@ -1,7 +1,5 @@
 CREATE DATABASE bd_exportar_1e;
 
-USE bd_exportar_1e;
-
 CREATE TABLE departamento (
     id INT PRIMARY KEY AUTO_INCREMENT NOT NULL,
     nome VARCHAR(50) NOT NULL,
